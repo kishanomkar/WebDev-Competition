@@ -4,7 +4,6 @@
 ![React](https://img.shields.io/badge/Made%20with-React-61DAFB?logo=react)
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
 ![Status](https://img.shields.io/badge/Status-In%20Development-yellow)
-[![Deployed on Vercel]([https://vercel.com/button)](https://vercel.com/new](https://urbandevelopmentanalyticsdashboard.vercel.app/))
 
 A full-stack, map-enabled, interactive data visualization platform for analyzing city-wise urban development insights across India 🇮🇳 — built in **React**.
 
