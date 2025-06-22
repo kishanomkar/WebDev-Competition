@@ -11,7 +11,7 @@ A full-stack, map-enabled, interactive data visualization platform for analyzing
 
 ## 🚀 Live Demo
 
-🔗 [https://your-urban-dashboard.vercel.app]((https://urbandevelopmentanalyticsdashboard.vercel.app/))
+🔗 [https://urbandevelopmentanalyticsdashboard.vercel.app/]
 
 ---
 
